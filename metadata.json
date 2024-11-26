@@ -1,0 +1,17 @@
+{
+    "KPackageStructure": "KWin/Script",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "dev@alecgreene.com",
+                "Name": "Alec Greene"
+            }
+        ],
+        "Description": "Adds shortcuts to cycle through virtual desktops using Ctrl+Meta+Left and Ctrl+Meta+Right",
+        "Icon": "preferences-system-windows-script-test",
+        "Id": "virtual-desktop-cycler",
+        "License": "GPL",
+        "Name": "Virtual Desktop Cycler"
+    },
+    "X-Plasma-API": "javascript"
+}
